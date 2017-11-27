@@ -7,8 +7,24 @@ L'équipe tech tokarde apprécie et valorise les points suivants ches les (futur
 Être agile, ce qui signifie:
 - travailler sur ce qui apporte le plus de valeur à Toucan à l'instant t
 - se donner des échelons très progressifs et s'y tenir
+  <details><summary>Exemples</summary>
+  
+  - ma feature à été découpée, le découpage est écrit dans la carte trello, il est clair et court
+  - ma feature était pas découpée, j'ai vite vu que c'était plus compliqué que prévu, j'ai repassé la carte trello en découpage
+  </details>
 - délivrer ces petits échelons le plus souvent possible
-- bien communiquer son avancement au reste de l'équipe, via les daily, Trello, le wiki, ou whatsoever
+  <details><summary>Exemples</summary>
+  
+  - je peux faire une v0 de ma fonctionalité et la merger en quelques jours
+  - je peux commencer un projet en ayant confiance que la PR sera proposée le soir
+  </details>
+- bien communiquer son avancement au reste de l'équipe
+  <details><summary>Exemples</summary>
+  
+  - je communique via les daily sur mes projets en cours, mes difficultés
+  - je met à jour Trello, le wiki
+  - mes PR sont claires et autosuffisantes (screenshots, urls de tests, exemples d'usage des APIs, exemples de confs)
+  </details>
 
 2. Autonomie
 
