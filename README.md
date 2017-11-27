@@ -18,7 +18,7 @@ L'équipe tech tokarde apprécie et valorise les points suivants ches les (futur
   - je peux faire une v0 de ma fonctionalité et la merger en quelques jours
   - je peux commencer un projet en ayant confiance que la PR sera proposée le soir
   </details>
-- bien communiquer son avancement au reste de l'équipe
+- bien communiquer son but et son avancement au reste de l'équipe
   <details><summary>Exemples</summary>
   
   - je communique via les daily sur mes projets en cours, mes difficultés
