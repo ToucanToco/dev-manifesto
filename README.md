@@ -31,6 +31,7 @@ L'équipe tech tokarde apprécie et valorise les points suivants ches les (futur
 Être autonome signifie que lorsqu'on prend un sujet, on s'engage dessus et on y met l'énergie nécessaire pour aller jusqu'à son rendu.
 Cela ne signifie PAS travailler seul.
 En particulier, nous recommendons:
+- d'identifier précisément le besoin auquel on réponds : quelle est la démo de ma feature ? 
 - d'identifier précisément les points sur lesquels une assistance est nécessaire
 - d'aller voir ses collègues avec des questions précises et claires
 
@@ -38,7 +39,6 @@ En particulier, nous recommendons:
 
 Être volontaire et moteur de son apprentissage, et participer à celui de ses collegues, c'est:
 - prendre le temps de pair-programmer le plus souvent possible
-- aller voir ses collègues avec des questions précises et claires
 - documenter au cours de son apprentissage pour les suivants
 - suivre son apprentissage (grâce à un board par exemple) et le communiquer au reste de l'équipe, puis prendre le lead sur des sujets nouvellement acquis pour les valider
 
