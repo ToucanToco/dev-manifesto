@@ -9,13 +9,13 @@ L'équipe tech tokarde apprécie et valorise les points suivants ches les (futur
 - se donner des échelons très progressifs et s'y tenir
   <details><summary>Exemples</summary>
   
-  - ma feature à été découpée, le découpage est écrit dans la carte trello, il est clair et court
-  - ma feature était pas découpée, j'ai vite vu que c'était plus compliqué que prévu, j'ai repassé la carte trello en découpage
+  - ma feature à été découpée, le découpage est écrit dans la carte trello, il est univoque et chaque étape est courte
+  - ma feature n'était pas découpée, j'ai vite vu que c'était plus compliqué que prévu, j'ai repassé la carte trello en découpage
   </details>
 - délivrer ces petits échelons le plus souvent possible
   <details><summary>Exemples</summary>
   
-  - je peux faire une v0 de ma fonctionalité et la merger en quelques jours
+  - je peux faire une v0 de ma fonctionalité et la présenter en quelques jours
   - je peux commencer un projet en ayant confiance que la PR sera proposée le soir
   </details>
 - bien communiquer son but et son avancement au reste de l'équipe
