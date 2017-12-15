@@ -1,6 +1,6 @@
 # dev-manifesto
 
-L'équipe tech tokarde apprécie et valorise les points suivants ches les (futurs-) tokars:
+L'équipe tech tokarde apprécie et valorise les points suivants chez les (futurs-) tokars:
 
 1. Production / méthode
 
