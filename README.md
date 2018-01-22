@@ -46,6 +46,9 @@ En particulier, nous recommendons:
 
 Être volontaire et moteur de son apprentissage, et participer à celui de ses collegues, c'est:
 - prendre le temps de pair-programmer le plus souvent possible
+<details><summary>Exemples</summary>
+- Bien communiquer avec le reste de l'équipe pour se synchroniser avec son binôme en fixant des events dans le calendrier
+</details>
 - documenter au cours de son apprentissage pour les suivants
 - suivre son apprentissage (grâce à un board par exemple) et le communiquer au reste de l'équipe, puis prendre le lead sur des sujets nouvellement acquis pour les valider
 
