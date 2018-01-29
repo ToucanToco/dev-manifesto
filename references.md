@@ -19,3 +19,10 @@ https://martinfowler.com/articles/products-over-projects.html
   to reorient quickly, reduces their end-to-end cycle time, and allows validation of actual benefits by using 
   short-cycle iterations while maintaining the architectural integrity of their software to preserve their 
   long-term effectiveness.
+
+https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae
+  
+  An inside look at the specifics of how we decide what to do and then decide how to do it.
+  “How do you guys actually work? How do you choose what to do? How big are your teams? How do you structure 
+  the work itself” are questions I get all the time. I’ve been sharing the details in small group workshops 
+  and 1 on 1, but figured it was time to write something up so we can share it at large.
