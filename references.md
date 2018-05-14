@@ -26,3 +26,12 @@ https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae
   “How do you guys actually work? How do you choose what to do? How big are your teams? How do you structure 
   the work itself” are questions I get all the time. I’ve been sharing the details in small group workshops 
   and 1 on 1, but figured it was time to write something up so we can share it at large.
+
+https://www.tamarabuckland.co.nz/blog/2018/5/6/developer-growth-framework (Tamara Buckland)
+
+  The 'Developer Growth Framework' is a simple spreadsheet/matrix to help identify and clarify appropriate behaviours and    
+  expectations for developers at different stages of their careers. It has a summary sheet which has some high level 
+  information about expectations for developers across 4 categories '#build' '#deliver' '#lead' and '#connect' and then it 
+  deep dives into those 4 categories in more detail with relevant examples. This is simple compared to some other frameworks 
+  out there which suited the needs of the teams I worked with but you can also see it as a first step in a journey, making it 
+  more detailed and sophisticated over time.
