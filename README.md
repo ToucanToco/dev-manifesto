@@ -36,6 +36,7 @@ L'équipe tech tokarde apprécie et valorise les points suivants chez les (futur
     - je communique via les daily sur mes projets en cours, mes difficultés
     - je mets à jour Trello, le wiki
     - mes PRs sont claires et autosuffisantes (screenshots, urls de tests, exemples d'usage des APIs, exemples de confs)
+    - je sais retrospectivement dire les projets et tâches sur lesquelles j'ai participé
   </details>
 
 ## 2. Autonomie
