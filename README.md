@@ -12,6 +12,7 @@ L'équipe tech tokarde apprécie et valorise les points suivants chez les (futur
     Pour le savoir je me pose les questions suivantes :
     - est-ce que ce que je suis en train de faire profitera dès son lancement à un utilisateur/client/concepteur/Tokar ? Si oui est-ce que cela lui permettra de faire quelque chose qu'il ne pouvait pas faire avant ? Est-ce que cela lui permettra de faire quelque chose deux fois plus vite qu'avant ?
     - à contrario, ce que j'ai fait est-il une amélioration marginale, ou qui ne profite à personne dans l'immédiat ?
+    - est ce que ce sur quoi je travaille est mergé/intégré au produit ? Ou est ce finalement abandonné ?
   </details>
 - se donner des échelons très progressifs et s'y tenir
   <details>
@@ -26,6 +27,7 @@ L'équipe tech tokarde apprécie et valorise les points suivants chez les (futur
 
     - je peux faire une v0 de ma fonctionalité et la présenter en quelques jours
     - je peux commencer un projet en ayant confiance que la PR sera proposée le soir
+    - je me concentre sur l'essentiel dans les PRs et évite de faire des modifications en plus "en passant"
   </details>
 - bien communiquer son but et son avancement au reste de l'équipe
   <details>
@@ -44,7 +46,13 @@ Cela ne signifie **PAS** travailler seul.
 En particulier, nous recommandons:
 - d'identifier précisément le besoin auquel on répond : quelle est la démo de ma feature ?
 - d'identifier précisément les points sur lesquels une assistance est nécessaire
+  <details>
+    <summary>Exemple</summary>
+
+    - Je sais faire mon auto-critique quand une tâche n'avance pas et je sais le communiquer
+  </details>
 - d'aller voir ses collègues avec des questions précises et claires
+- de prendre les tâches dans les backlogs communs que je peux prendre
 
 ## 3. Apprentissage
 
