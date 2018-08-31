@@ -17,8 +17,8 @@ L'équipe tech tokarde apprécie et valorise les points suivants chez les (futur
   <details>
     <summary>Exemples</summary>
 
-    - ma feature à été découpée, le découpage est écrit dans la carte trello, il est univoque et chaque étape est courte
-    - ma feature n'était pas découpée, j'ai vite vu que c'était plus compliqué que prévu, j'ai repassé la carte trello en découpage
+    - ma feature à été découpée, le découpage est écrit dans la carte Trello, il est univoque et chaque étape est courte
+    - ma feature n'était pas découpée, j'ai vite vu que c'était plus compliqué que prévu, j'ai repassé la carte Trello en découpage
   </details>
 - délivrer ces petits échelons le plus souvent possible
   <details>
@@ -32,23 +32,23 @@ L'équipe tech tokarde apprécie et valorise les points suivants chez les (futur
     <summary>Exemples</summary>
 
     - je communique via les daily sur mes projets en cours, mes difficultés
-    - je met à jour Trello, le wiki
-    - mes PR sont claires et autosuffisantes (screenshots, urls de tests, exemples d'usage des APIs, exemples de confs)
+    - je mets à jour Trello, le wiki
+    - mes PRs sont claires et autosuffisantes (screenshots, urls de tests, exemples d'usage des APIs, exemples de confs)
   </details>
 
 ## 2. Autonomie
 
 Être autonome signifie que lorsqu'on prend un sujet, on s'engage dessus et on y met l'énergie nécessaire pour aller jusqu'à son rendu.
-Cela ne signifie PAS travailler seul.
+Cela ne signifie **PAS** travailler seul.
 
 En particulier, nous recommandons:
-- d'identifier précisément le besoin auquel on réponds : quelle est la démo de ma feature ?
+- d'identifier précisément le besoin auquel on répond : quelle est la démo de ma feature ?
 - d'identifier précisément les points sur lesquels une assistance est nécessaire
 - d'aller voir ses collègues avec des questions précises et claires
 
 ## 3. Apprentissage
 
-Être volontaire et moteur de son apprentissage, et participer à celui de ses collegues, c'est:
+Être volontaire et moteur de son apprentissage, et participer à celui de ses collegues, c'est :
 - prendre le temps de pair-programmer le plus souvent possible
   <details>
     <summary>Exemples</summary>
