@@ -12,13 +12,13 @@ L'équipe tech tokarde apprécie et valorise les points suivants chez les (futur
     Pour le savoir je me pose les questions suivantes :
     - est-ce que ce que je suis en train de faire profitera dès son lancement à un utilisateur/client/concepteur/Tokar ? Si oui est-ce que cela lui permettra de faire quelque chose qu'il ne pouvait pas faire avant ? Est-ce que cela lui permettra de faire quelque chose deux fois plus vite qu'avant ?
     - à contrario, ce que j'ai fait est-il une amélioration marginale, ou qui ne profite à personne dans l'immédiat ?
-    - est ce que ce sur quoi je travaille est mergé/intégré au produit ? Ou est ce finalement abandonné ?
+    - est-ce que ce sur quoi je travaille est mergé/intégré au produit ? Ou est-ce finalement abandonné ?
   </details>
 - se donner des échelons très progressifs et s'y tenir
   <details>
     <summary>Exemples</summary>
 
-    - ma feature à été découpée, le découpage est écrit dans la carte Trello, il est univoque et chaque étape est courte
+    - ma feature a été découpée, le découpage est écrit dans la carte Trello, il est univoque et chaque étape est courte
     - ma feature n'était pas découpée, j'ai vite vu que c'était plus compliqué que prévu, j'ai repassé la carte Trello en découpage
   </details>
 - délivrer ces petits échelons le plus souvent possible
@@ -36,7 +36,7 @@ L'équipe tech tokarde apprécie et valorise les points suivants chez les (futur
     - je communique via les daily sur mes projets en cours, mes difficultés
     - je mets à jour Trello, le wiki
     - mes PRs sont claires et autosuffisantes (screenshots, urls de tests, exemples d'usage des APIs, exemples de confs)
-    - je sais retrospectivement dire les projets et tâches sur lesquelles j'ai participé
+    - je sais retrospectivement dire les projets et tâches sur lesquels j'ai participé
   </details>
 
 ## 2. Autonomie
