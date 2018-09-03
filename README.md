@@ -53,7 +53,7 @@ En particulier, nous recommandons:
     - Je sais faire mon auto-critique quand une tâche n'avance pas et je sais le communiquer
   </details>
 - d'aller voir ses collègues avec des questions précises et claires
-- de prendre les tâches dans les backlogs communs que je peux prendre
+- de prendre les tâches en haut du backlogs communs que je peux prendre et m'engager à traiter
 
 ## 3. Apprentissage
 
