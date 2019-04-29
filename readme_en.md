@@ -25,51 +25,52 @@ Being agile, which means:
   <details>
     <summary>Examples</summary>
 
-    - I can make a v0 of my functionality and present it in a few days
-    - I can start a project with confidence that PR will be offered in the evening
-    - I focus on the essentials in the PRs and avoid making additional modifications "by the way".
+    - I can make a v0 of my feature and present it in a few days
+    - I can start a project with confidence that PR will be opened in the evening
+    - I focus on the essentials in the PRs and avoid making additional modifications, "drive by changes".
   </details>
-- communicate your goal and progress to the rest of the team
+- state your goal and communicate your progress to the rest of the team
   <details>
     <summary>Examples</summary>
 
-    - I communicate via daily on my current projects, my difficulties
+    - I use our daily meeting to communicate on my current projects, my difficulties
     - I update Trello, the wiki
     - my PRs are clear and self-sufficient (screenshots, test urls, examples of API use, examples of confs)
-    - I can retrospectively say the projects and tasks on which I have participated
+    - It's easy and enjoyable for me to speak about the projects and tasks on which I have contributed
   </details>
 
 ## 2. Autonomy
 
-Being autonomous means that when you take a subject, you commit yourself to it and put the necessary energy into it to get to the point of rendering it.
+Being autonomous means that when you start on a project, you commit yourself to it and put the necessary energy into it to deliver it.
 This does not mean **NOT** working alone.
 
 In particular, we recommend:
-- to precisely identify the need to which we are responding: what is the demo of my feature?
+- to identify the needs to which we are responding: what is the demo of my feature?
 - to identify precisely the points on which assistance is needed
   <details>
     <summary>Example</summary>
 
-    - I know how to do my self-criticism when a task does not progress and I know how to communicate it
+    - I know how to ask for help when I'm stuck with a task
+    - I know how to get support from other devs on difficult technical project, and show that they are worth it
   </details>
 - to go to his colleagues with specific and clear questions
-- to take the tasks at the top of the common backlogs that I can take and commit to process
+- to start with the tasks at the top of the common backlogs, where I feel and I can deliver and  commit to process
 
 ## 3. Apprenticeship
 
-To be a volunteer and a driving force in your learning, and to participate in the learning of your colleagues, is:
+To be a driving force in continuous learning, for you, your colleagues and the organisation:
 - take the time to peer-program as often as possible
   <details>
     <summary>Examples</summary>
 
     - Communicate well with the rest of the team to synchronize with your teammate by setting events in the calendar
   </details>
-- document during the learning process for the following
-- follow his learning (thanks to a board for example) and communicate it to the rest of the team, then take the lead on newly acquired subjects to validate them
+- document your the learning process so that it cal help others
+- follow up on what you have learned (use a Trello board for example) and communicate it to the rest of the team, take the lead on projects in your new areas of expertise to validate them
 
 ## 4. Attitude
 
 Have a good work ethic, be honest with yourself and your colleagues about:
-- its skills
-- its difficulties (which will be used to solve them)
-- its ability to deliver (there is no point in announcing the moon, if not to disappoint)
+- skills
+- difficulties
+- our ability to deliver (there is no point in announcing the moon, if not to disappoint)
