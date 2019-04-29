@@ -18,8 +18,8 @@ Being agile, which means:
   <details>
     <summary>Examples</summary>
 
-    - my feature has been divided, every bit of the feature is written in the Trello card, it is unique and each step is short
-    - my feature was not divided, I quickly saw that it was more complicated than expected, I put the Trello card back into cut-out
+    - the feature I work on has been divided into small simple steps, clearly described in a Trello card
+    - the feature I work on was not properly planned, I quickly saw that it was more complicated than expected, I send the Trello card back into the design column
   </details>
 - deliver these small steps as often as possible
   <details>
