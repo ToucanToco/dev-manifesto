@@ -73,3 +73,5 @@ Avoir une bonne éthique de travail, être honnête envers soi-même et ses coll
 - ses compétences
 - ses difficultés (ce qui va servir à les résoudre)
 - sa capacité à délivrer (rien ne sert d'annoncer la lune, si ce n'est à décevoir)
+
+Pour aller plus loin... [references](references.md)
